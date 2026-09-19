@@ -18,7 +18,7 @@
 ## 學生資訊
 - **姓名**：林帛緯
 - **學號**：1143312
-- **GitHub**：[@velpro](https://github.com/velpro)
+- **GitHub**：(https://github.com/bensonhandsome1110-afk)
 
 
 ## Course Information
