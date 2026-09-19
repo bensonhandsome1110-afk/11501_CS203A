@@ -13,7 +13,7 @@
 - `README.md`：本說明文件
 - 之後每次作業會依 Assignment 編號建立對應的資料夾或檔案，並在此更新說明
 
-我的個人課程首頁（GitHub Pages）：[[velpro.github.io](https://velpro.github.io/)](https://bensonhandsome1110-afk.github.io/velproswebsite/)
+我的個人課程首頁（GitHub Pages）：[[bensonhandsome1110-afk.github.io](https://velpro.github.io/)](https://bensonhandsome1110-afk.github.io/velproswebsite/)
 
 ## 學生資訊
 - **姓名**：林帛緯
